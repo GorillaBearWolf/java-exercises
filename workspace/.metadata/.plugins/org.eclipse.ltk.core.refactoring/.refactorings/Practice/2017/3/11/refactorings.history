@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SpriteInterface.java&apos; to &apos;MrefsnidE07/src/(default package)&apos;&#x0A;- Original project: &apos;Practice&apos;&#x0A;- Destination element: &apos;MrefsnidE07/src/(default package)&apos;&#x0A;- Original element: &apos;SpriteInterface.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=MrefsnidE07/src&lt;" element1="/src&lt;{SpriteInterface.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1489447500440" units="1" version="1.0"/>
+</session>

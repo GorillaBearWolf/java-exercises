@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;MrefsnidA07/src&apos;&#x0A;- Original project: &apos;RresnickA06&apos;&#x0A;- Destination element: &apos;MrefsnidA07/src&apos;&#x0A;- Original elements:&#x0A;     MrefsnidMath.java&#x0A;     Main.java&#x0A;     MathInterface.java" description="Copy compilation units" destination="=MrefsnidA07/src" element1="/src&lt;{MrefsnidMath.java" element2="/src&lt;{Main.java" element3="/src&lt;{MathInterface.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1490474592613" units="3" version="1.0"/>
+</session>

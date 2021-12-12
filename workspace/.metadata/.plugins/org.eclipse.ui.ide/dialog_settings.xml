@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/mpr/Documents/Python/Projects"/>
+		<item value="/Users/mpr/Documents/School/Spring 2017/ISM3230/GradeBook/GroupProject"/>
+		<item value="/Users/mpr/Documents/School/Spring 2017/ISM3230/GroupProject/GroupProject"/>
+		<item value="/Users/mpr/Documents/School/Spring 2017/ISM3230/GradeBookProgress/answerstudentgrade12apr17"/>
+		<item value="/Users/mpr/Documents/School/Spring 2017/ISM3230/MrefsnidExam2Practical/Exam2Practical"/>
+		<item value="/Users/mpr/Documents/Java/examples/src"/>
+		<item value="/Users/mpr/Documents/Java/examples"/>
+		<item value="/Users/mpr/Google Drive/School/Spring 2017/ISM3230/A06(1)/RresnickA06"/>
+		<item value="/Users/mpr/Google Drive/School/Spring 2017/ISM3230/FinalExamPractical/FinalExamPractical"/>
+		<item value="/Users/mpr/Google Drive/School/Spring 2017/ISM3230/FinalExamPractical"/>
+		<item value="/Users/mpr/Google Drive/School/Spring 2017/ISM3230/FinalExamPractical/FinalExamPractical/src"/>
+		<item value="/Users/mpr/Google Drive/School/Spring 2017/ISM3230/RresnickE05a"/>
+		<item value="/Users/mpr/Desktop/src"/>
+		<item value="/Users/mpr/Google Drive/School/ISM3230/MrefsnidExam01Practical"/>
+		<item value="/Users/mpr/Downloads/MrefsnidExam01Practical"/>
+		<item value="/Users/mpr/Documents/examples"/>
+		<item value="/Users/mpr/Downloads/jdk-8u121-macosx-x86_64-demos/jdk1.8.0_121/demo/javafx_samples/src/Modena/src/main/java/modena"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode/&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="208" key="DIALOG_X_ORIGIN"/>
+			<item value="74" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>
